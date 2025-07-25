@@ -1,6 +1,6 @@
 # ML_intro
 
-ML homework will be sent as Google Drive links through announcements in Canvas.
+
 ----------------------------------------------------------------------
 Python review
 ----------------------------------------------------------------------
@@ -133,3 +133,5 @@ SVM
 ----------------------------------------------------------------------
 CNN deep learning intro for fun
 ----------------------------------------------------------------------
+
+* ML homework will be sent as Google Drive links through announcements in Canvas.
