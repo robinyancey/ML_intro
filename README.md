@@ -1,5 +1,5 @@
 # ML_intro
-[YouTube PlayList](https://youtube.com/playlist?list=PLuGb0-rQ2tEzQzgaBC18Ubg5lZBXGnVbk&si=SinYqUHv5QKq1tOL)
+[YouTube Playlist](https://youtube.com/playlist?list=PLuGb0-rQ2tEzQzgaBC18Ubg5lZBXGnVbk&si=SinYqUHv5QKq1tOL)
   
 * ML homework will be sent as Google Drive links through announcements in Canvas.
 ----------------------------------------------------------------------
