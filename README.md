@@ -1,6 +1,6 @@
 # ML_intro
 
-https://youtube.com/playlist?list=PLuGb0-rQ2tEzQzgaBC18Ubg5lZBXGnVbk&si=SinYqUHv5QKq1tOL
+* https://youtube.com/playlist?list=PLuGb0-rQ2tEzQzgaBC18Ubg5lZBXGnVbk&si=SinYqUHv5QKq1tOL
 ----------------------------------------------------------------------
 Python Review
 ----------------------------------------------------------------------
