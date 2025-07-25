@@ -1,5 +1,6 @@
 # ML_intro
 
+ML homework will be sent as Google Drive links through announcements in Canvas.
 ----------------------------------------------------------------------
 Python review
 ----------------------------------------------------------------------
