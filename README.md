@@ -2,9 +2,9 @@
 
 
 ----------------------------------------------------------------------
-Python review
+Python Review
 ----------------------------------------------------------------------
-Data cleaning and prep intro
+Data Cleaning and Prep Intro
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 Unsupervised Learning ML intro 
@@ -131,7 +131,7 @@ SVM
 7. SVM from Scratch with Scipy
 
 ----------------------------------------------------------------------
-CNN deep learning intro for fun
+CNN Deep Learning Intro (just for fun, intro to ENGR 011)
 ----------------------------------------------------------------------
 
 * ML homework will be sent as Google Drive links through announcements in Canvas.
