@@ -8,7 +8,8 @@
   *  Grading feeedback will also be through Canvas.
 * Text or email questions anytime.
  * reyancey@ucdavis.edu, 916-397-5878, or through Canvas.
-      
+
+## Course Contents:
 ----------------------------------------------------------------------
 Python Review
 ----------------------------------------------------------------------
