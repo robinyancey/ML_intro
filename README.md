@@ -1,9 +1,14 @@
 # ML_intro
 [YouTube Playlist](https://youtube.com/playlist?list=PLuGb0-rQ2tEzQzgaBC18Ubg5lZBXGnVbk&si=SinYqUHv5QKq1tOL)
-  
-* ML homework will be sent as Google Drive links through announcements in Canvas and submitted through Canvas.
+
 * Official syllabus is linked in the first announcement.
+* ML homework
+  *  Will be sent as Google Drive links through announcements in Canvas.
+  *  Should be submitted through Canvas Homework tab once complete.
+  *  Grading feeedback will also be through Canvas.
 * Text or email questions anytime.
+ * reyancey@ucdavis.edu, 916-397-5878, or through Canvas.
+      
 ----------------------------------------------------------------------
 Python Review
 ----------------------------------------------------------------------
