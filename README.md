@@ -6,8 +6,7 @@
   *  Will be sent as Google Drive links through announcements in Canvas.
   *  Should be submitted through Canvas Homework tab once complete.
 * Text or email questions anytime (I respond quick).
-  * reyancey@ucdavis.edu, 916-397-5878, or through Canvas.
- 
+
 Course Grading Weights
 4 Assignments (20% each)	80%
 Final	20%
